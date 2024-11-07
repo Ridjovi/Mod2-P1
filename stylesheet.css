@@ -1,1 +1,35 @@
-.fbg {}
+.fbg { 
+    background-image:url("https://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg");
+    background-size:cover;
+
+
+}
+#qe { 
+    background-color: #9acd32;
+
+}
+
+
+.cola {
+    background-image:url("https://www.quackit.com/html/templates/download/bootstrap/business-2/images/writing.jpg");
+    background-size:cover;
+    background-position: center;
+    
+}
+.colo {
+    background-image:url("https://www.quackit.com/html/templates/download/bootstrap/business-2/images/concert.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.cole {
+    background-image:url("https://www.quackit.com/html/templates/download/bootstrap/business-2/images/pencil_sharpener.jpg");
+    background-size:cover;
+    background-position:center;
+}
+#rowe { 
+    height:200px;
+    
+}
+#rowe h1{
+    margin-top: 90px;
+}
